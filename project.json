@@ -1,0 +1,10 @@
+{
+    "name": "car",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "car.xml",
+    "author": "chromeboy123",
+    "minimum_firmware_version": 42
+}
